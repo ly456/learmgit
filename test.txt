@@ -1,3 +1,5 @@
 git is an good software.
 git is a free software.
 git is easy to use
+git is really useful
+boss is stupid
